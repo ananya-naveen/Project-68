@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+#schoolpic{
+    width: 75%;
+}
+#map{
+    width: 100%;
+}
+#principalimg{
+    width: 350px;
+    height: 350px;
+}
